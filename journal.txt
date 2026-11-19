@@ -1,2 +1,3 @@
 Week 4: Built my first API with Flask and tested it with requests.
 Week 5: Made plots of the tips dataset with Seaborn.
+Week 6: Learned Git and GitHub: commits, branches and pushing.
